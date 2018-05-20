@@ -1,5 +1,5 @@
 ---
-title: RESTful API Part II
+title: RESTful API Part III
 subTitle: Simple and Elegant
 category: "nodejs"
 cover: thumbsup.jpeg
