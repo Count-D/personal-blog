@@ -12,5 +12,4 @@ menuTitle: My Projects
 [Github](https://github.com/Count-D/webserver-node) || 
 [DEMO](https://infinite-retreat-55062.herokuapp.com/)
 
-4. **Full-Stack MERN todo small App** :  
-[DEMO](https://mern-todo-app-frontend.herokuapp.com/)
+4. **Full-Stack MERN todo small App** : [DEMO](https://mern-todo-app-frontend.herokuapp.com/)
